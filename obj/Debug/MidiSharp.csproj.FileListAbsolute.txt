@@ -1,0 +1,6 @@
+C:\Users\jackd\Documents\Personal Projects\ComputerComposer\MidiSharp\bin\Debug\MidiSharp.dll
+C:\Users\jackd\Documents\Personal Projects\ComputerComposer\MidiSharp\bin\Debug\MidiSharp.pdb
+C:\Users\jackd\Documents\Personal Projects\ComputerComposer\MidiSharp\obj\Debug\MidiSharp.csprojAssemblyReference.cache
+C:\Users\jackd\Documents\Personal Projects\ComputerComposer\MidiSharp\obj\Debug\MidiSharp.csproj.CoreCompileInputs.cache
+C:\Users\jackd\Documents\Personal Projects\ComputerComposer\MidiSharp\obj\Debug\MidiSharp.dll
+C:\Users\jackd\Documents\Personal Projects\ComputerComposer\MidiSharp\obj\Debug\MidiSharp.pdb
